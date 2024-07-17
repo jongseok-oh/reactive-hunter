@@ -9,5 +9,4 @@ public class JongkingApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JongkingApplication.class, args);
 	}
-
 }
